@@ -14,7 +14,7 @@ MENTOR NAME: NEELA SANTOSH KUMAR
 
 Used the python programming language Widely used due to its powerful data handling, automation, and visualization capabilities. it reads data from a file and its generated as   report format pdf using library FPDF.
 
-This model reads the absolute data from a file and generates a Reported format as sales.pdf 
+This model reads the absolute data from a file and generates a Reported format as salesPDF.
 
 Requirements:install necessary libraries
 
