@@ -26,6 +26,6 @@ This task typically involves integrating various data sources like SQL/NoSQL dat
 
 In Python, libraries such as pandas are used for data cleaning and analysis, matplotlib, seaborn, and plotly for data visualization, and jinja2 combined with pdfkit or WeasyPrint for generating HTML-based PDF reports. Excel reports can be created using libraries like openpyxl or xlsxwriter. 
 
-OUTPUT
+OUTPUT:
 
 <img width="1056" height="413" alt="Image" src="https://github.com/user-attachments/assets/73accf2b-99eb-488d-9320-333bef49b355" />
