@@ -28,4 +28,4 @@ In Python, libraries such as pandas are used for data cleaning and analysis, mat
 
 OUTPUT:
 
-
+<img width="1133" height="632" alt="Image" src="https://github.com/user-attachments/assets/7ef335da-4f86-42de-a592-28139e31b931" />
